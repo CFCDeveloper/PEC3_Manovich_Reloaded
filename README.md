@@ -53,5 +53,10 @@ Creo que es lo que **Manovich desde su libro quiere que reflexionemos, el cómo 
 
 En síntesis, pienso que **la hibridación es un desafío para pensar más allá de las categorías tradicionales y explorar nuevas formas de comunicación y expresión, siendo solo el principio de lo que viene y en lo que el software va a seguir transformándose**. Analizar Notion y Fortnite, dos casos fascinantes sobre hibridación, me ha permitido ver cómo esto está dando forma a nuestro mundo digital y su transformación.
 
+## [Bibliografía y referencias](bibliografía.md)
 
+----
 
+**Licencia:** Material Crative Commons desarrollado bajo licencia **CC BY-SA 4.0**.\
+Imágenes utilizadas bajo licencia **CC BY**.\
+Información detallada en la **[página de licencia y atrbuciones](atribuciones.md)**
